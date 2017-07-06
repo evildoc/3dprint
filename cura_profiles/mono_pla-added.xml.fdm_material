@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdmmaterial version="1.3" xmlns="http://www.ultimaker.com/material">
+  <metadata>
+    <name>
+      <brand>Monoprice</brand>
+      <material>PLA+ Plus</material>
+      <color>Generic</color>
+      <label>White PLA+</label>
+    </name>
+    <setting_version>1</setting_version>
+    <adhesion_info />
+    <color_code>#f4fff3</color_code>
+    <GUID>0e33223e-c94e-4e72-aa6b-53e07ec25d3a</GUID>
+    <description />
+    <compatible>True</compatible>
+    <version>1</version>
+  </metadata>
+  <properties>
+    <density>1.24</density>
+    <diameter>1.75</diameter>
+  </properties>
+  <settings>
+    <setting key="print temperature">210.0</setting>
+    <setting key="retraction speed">40.0</setting>
+    <setting key="retraction amount">4.5</setting>
+  </settings>
+</fdmmaterial>
