@@ -7,3 +7,4 @@ rando tries with cura 2.6+
 - troubleshooting: https://www.simplify3d.com/support/print-quality-troubleshooting/
 - common probs: https://pinshape.com/blog/3-most-common-3d-printer-errors-and-fixes/
 - alt slicers: https://craftunique.com/craftware/
+- machine files yanked from ~/Library/Application\ Support/cura/2.6/
